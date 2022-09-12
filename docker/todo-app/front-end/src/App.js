@@ -4,8 +4,6 @@ import {
   Route
 } from "react-router-dom";
 
-//first commit
-
 import logo from './logo.png';
 import './App.css';
 
